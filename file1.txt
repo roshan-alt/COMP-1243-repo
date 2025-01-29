@@ -1,4 +1,8 @@
 Hi My name is Roshan Adhikari
 I am a Computer Science major.
+<<<<<<< HEAD
 Outside it is sunny and cold.
-
+=======
+Weather outside is sunny and cold.
+>>>>>>> feature-branch
+Hello My name is rishi
